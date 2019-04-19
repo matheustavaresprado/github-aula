@@ -17,7 +17,7 @@ import matematica.Triangulo;
 public class Program {
 
 	public static void main(String[] args) throws ParseException {
-//		
+//		wfefewfew
 //		String s = "teste";
 //		
 //		System.out.println(s);
